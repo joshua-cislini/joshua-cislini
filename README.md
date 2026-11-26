@@ -4,5 +4,5 @@
 > Learn more and take action at [keepandroidopen.org](https://keepandroidopen.org/).
 
 <p align="center">
-  <a href="https://joshua-cislini.github.io/"><img src="https://joshua-cislini.github.io/og-image.png" alt="OG-Image" width="600"></a>
+  <a href="https://joshua-cislini.pages.dev/"><img src="https://joshua-cislini.pages.dev/assets/og-image.png" alt="OG-Image" width="630"></a>
 </p>
